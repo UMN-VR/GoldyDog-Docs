@@ -10,7 +10,7 @@ make all --print-data-base --no-builtin-variables --no-builtin-rules --question
 make: *** No rule to make target `all'.  Stop.
 
 
-# Make data base, printed on Wed Jul  6 12:45:55 2022
+# Make data base, printed on Wed Jul  6 13:30:33 2022
 
 # Variables
 
@@ -45,7 +45,7 @@ VSCODE_VERBOSE_LOGGING = true
 # environment
 __CFBundleIdentifier = com.microsoft.VSCode
 # environment
-VSCODE_IPC_HOOK_EXTHOST = /var/folders/xy/5szkm9xn69sdy58rfn333v4c0000gn/T/vscode-ipc-e12eccca-01e8-4f38-b6ec-9c9064059336.sock
+VSCODE_IPC_HOOK_EXTHOST = /var/folders/xy/5szkm9xn69sdy58rfn333v4c0000gn/T/vscode-ipc-309b4658-8ec3-419d-93d7-ed30eb5f3cb4.sock
 # environment
 VSCODE_CWD = /
 # environment
@@ -79,7 +79,7 @@ VSCODE_CODE_CACHE_PATH = /Users/felg/Library/Application Support/Code/CachedData
 # environment
 LOGNAME = felg
 # environment
-APPLICATION_INSIGHTS_NO_DIAGNOSTIC_CHANNEL = true
+APPLICATION_INSIGHTS_NO_DIAGNOSTIC_CHANNEL = 1
 # environment
 VSCODE_HANDLES_UNCAUGHT_ERRORS = true
 # automatic
@@ -230,10 +230,9 @@ GNUmakefile:
 
 # # of strings in strcache: 0
 # # of strcache buffers: 0
- 
 # strcache size: total = 0 / max = 0 / min = 4096 / avg = 0
 # strcache free: total = 0 / max = 0 / min = 4096 / avg = 0
 
-# Finished Make data base on Wed Jul  6 12:45:55 2022
+# Finished Make data base on Wed Jul  6 13:30:33 2022
 
  
