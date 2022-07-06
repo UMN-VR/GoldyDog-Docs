@@ -59,7 +59,7 @@ Researchers from Google Brain will give a guest lecture during the quarter on th
     :maxdepth: 1
     :caption: Course Staff
 
-    course-staff/Felipe_Galindo 
+    course-staff/Felipe-Galindo 
 
 .. toctree::
     :maxdepth: 2
