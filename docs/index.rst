@@ -11,7 +11,7 @@ Course overview
 
 **A hands-on introduction to building AI-enabled robots.**
 
-**Class Creators:** 
+**Class Creators:**
 
 * Nathan Kau (MSME 2022, Stanford Student Robotics)
 * Gabrael Levine (CS 2023, Stanford Student Robotics)
@@ -20,7 +20,7 @@ Course overview
 * Stuart Bowers (Hands-On Robotics)
 * Jie Tan (Google Brain)
 
-**Teaching Team:** 
+**Teaching Team:**
 
 * Felipe Galindo (CS 2022, UMN-VR)
 
@@ -28,11 +28,11 @@ Course overview
 
 **Overview:**
 
-Welcome to the course page for UMN-VR's course in legged robots. The course has been taught at Stanford, UW, WashU, Foothills College, Brandeis and more! In summer 2022, Abdul Omria is even taking the course to Turkey and Lebanon. 
+Welcome to the course page for UMN-VR's course in legged robots. The course has been taught at Stanford, UW, WashU, Foothills College, Brandeis and more! In summer 2022, Abdul Omria is even taking the course to Turkey and Lebanon.
 
-In the first six weeks, students will learn key robotics concepts like including motor control, forward and inverse kinematics, and system identification; as well as important embodied-AI concepts including reinforcement learning and simulation. Through weekly labs, students will build a pair of teleoperated robot arms with haptic feedback, program a robot arm to learn to move by itself, and most importantly, build and program an agile robot quadruped called Pupper (pictured above). In the last four weeks of the course, students will pursue an open-ended project using Pupper as a platform, such as teaching Pupper to walk using reinforcement learning, building a vision system so Pupper can play fetch, or redesigning the hardware to make the robot more agile. 
+In the first six weeks, students will learn key robotics concepts like including motor control, forward and inverse kinematics, and system identification; as well as important embodied-AI concepts including reinforcement learning and simulation. Through weekly labs, students will build a pair of teleoperated robot arms with haptic feedback, program a robot arm to learn to move by itself, and most importantly, build and program an agile robot quadruped called Pupper (pictured above). In the last four weeks of the course, students will pursue an open-ended project using Pupper as a platform, such as teaching Pupper to walk using reinforcement learning, building a vision system so Pupper can play fetch, or redesigning the hardware to make the robot more agile.
 
-Researchers from Google Brain will give a guest lecture during the quarter on their work teaching robots new skills using reinforcement learning. 
+Researchers from Google Brain will give a guest lecture during the quarter on their work teaching robots new skills using reinforcement learning.
 
 *"Empowering robots with AI is essential to make them smart and useful in people's daily life. It is one of the most important research directions in both academia and industry. This class teaches the most relevant skills, gives students hand-on experiences, and prepares them for a career in the area of AI and robotics."* - Jie Tan, Staff Research Scientist at Google Brain
 
@@ -50,7 +50,7 @@ Researchers from Google Brain will give a guest lecture during the quarter on th
 .. toctree::
     :maxdepth: 1
     :caption: Course information
-  
+
     course-info/syllabus
     course-info/schedule
     course-info/sourcing
@@ -59,10 +59,10 @@ Researchers from Google Brain will give a guest lecture during the quarter on th
     :maxdepth: 1
     :caption: Course Staff
 
-    course-staff/Felipe 
+    course-staff/Felipe
 
 .. toctree::
-    :maxdepth: 1
+    :maxdepth: 2
     :caption: Course material
 
     course-material/lab-1
@@ -82,7 +82,7 @@ Researchers from Google Brain will give a guest lecture during the quarter on th
     reference/design
     reference/libraries
     reference/dji_reference
-    
+
 .. toctree::
     :maxdepth: 1
     :caption: GoldyDog
@@ -90,5 +90,4 @@ Researchers from Google Brain will give a guest lecture during the quarter on th
     GoldyDog/GoldyDog
     GoldyDog/V4
     GoldyDog/V7
-    GoldyDog/V8      
-    
+    GoldyDog/V8
