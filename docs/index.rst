@@ -78,3 +78,14 @@ Researchers from Google Brain will give a guest lecture during the quarter on th
     reference/libraries
     reference/dji_reference
     
+.. toctree::
+    :maxdepth: 1
+    :caption: GoldyDog
+
+    GoldyDog/GoldyDog
+    GoldyDog/V4
+    GoldyDog/V7
+      
+    
+    
+    
