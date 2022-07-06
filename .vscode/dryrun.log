@@ -1,0 +1,6 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory `/Library/Github/GoldyDog-Docs'
+make: Leaving directory `/Library/Github/GoldyDog-Docs'
+ 
+make: *** No targets specified and no makefile found.  Stop.
+
