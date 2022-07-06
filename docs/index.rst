@@ -63,17 +63,6 @@ Researchers from Google Brain will give a guest lecture during the quarter on th
     course-staff/Felipe
 
 
-
-.. toctree::
-    :maxdepth: 1
-    :caption: Stanford Pupper Reference
-    reference/faq
-    reference/rpi-reference
-    reference/design
-    reference/libraries
-    reference/dji_reference
-
-
 .. toctree::
     :maxdepth: 1
     :caption: GoldyDog
