@@ -57,13 +57,6 @@ Researchers from Google Brain will give a guest lecture during the quarter on th
 
 
 .. toctree::
-    :maxdepth: 1
-    :caption: Course Staff
-
-   course-staff/Felipe
-
-
-.. toctree::
     :maxdepth: 2
     :caption: Course material
 
