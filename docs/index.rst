@@ -55,11 +55,13 @@ Researchers from Google Brain will give a guest lecture during the quarter on th
     course-info/schedule
     course-info/sourcing
 
+
 .. toctree::
     :maxdepth: 1
     :caption: Course Staff
 
     course-staff/Felipe
+
 
 .. toctree::
     :maxdepth: 2
@@ -74,6 +76,7 @@ Researchers from Google Brain will give a guest lecture during the quarter on th
     course-material/lab-7-spr22
     course-material/final-project
 
+
 .. toctree::
     :maxdepth: 1
     :caption: Stanford Pupper Reference
@@ -82,6 +85,7 @@ Researchers from Google Brain will give a guest lecture during the quarter on th
     reference/design
     reference/libraries
     reference/dji_reference
+
 
 .. toctree::
     :maxdepth: 1
