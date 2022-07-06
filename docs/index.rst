@@ -46,25 +46,19 @@ Researchers from Google Brain will give a guest lecture during the quarter on th
 
 **Spring Quarter Faculty sponsor:** Professor Karen Liu
 
-
 .. toctree::
     :maxdepth: 1
     :caption: Course information
-
+  
     course-info/syllabus
     course-info/schedule
     course-info/sourcing
 
-
 .. toctree::
     :maxdepth: 1
-    :caption: Stanford Pupper
-
-    reference/rpi-reference
-    reference/design
-    reference/libraries
-    reference/dji_reference
-
+    :caption: Staff
+    
+    staff/Felipe
 
 .. toctree::
     :maxdepth: 2
@@ -79,12 +73,13 @@ Researchers from Google Brain will give a guest lecture during the quarter on th
     course-material/lab-7-spr22
     course-material/final-project
 
-
 .. toctree::
     :maxdepth: 1
-    :caption: GoldyDog
+    :caption: References
 
-    GoldyDog/GoldyDog
-    GoldyDog/V4
-    GoldyDog/V7
-    GoldyDog/V8
+    reference/faq
+    reference/rpi-reference
+    reference/design
+    reference/libraries
+    reference/dji_reference
+    
