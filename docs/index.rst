@@ -92,9 +92,3 @@ Researchers from Google Brain will give a guest lecture during the quarter on th
     GoldyDog/V7
     GoldyDog/V8      
     
-
-    .. toctree::
-    :maxdepth: 1
-    :caption: Other Resources
-    
-    
