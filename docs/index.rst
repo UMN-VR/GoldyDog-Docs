@@ -57,6 +57,7 @@ Researchers from Google Brain will give a guest lecture during the quarter on th
 .. toctree::
     :maxdepth: 1
     :caption: Stanford Pupper Reference
+    
     reference/faq
     reference/rpi-reference
     reference/design
@@ -66,6 +67,7 @@ Researchers from Google Brain will give a guest lecture during the quarter on th
 .. toctree::
     :maxdepth: 1
     :caption: GoldyDog
+    
     GoldyDog/GoldyDog
     GoldyDog/V4
     GoldyDog/V7
