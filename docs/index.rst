@@ -53,17 +53,7 @@ Researchers from Google Brain will give a guest lecture during the quarter on th
     course-info/syllabus
     course-info/schedule
     course-info/sourcing
-
-.. toctree::
-    :maxdepth: 1
-    :caption: Stanford Pupper Reference
-    
-    reference/faq
-    reference/rpi-reference
-    reference/design
-    reference/libraries
-    reference/dji_reference
-
+ 
 .. toctree::
     :maxdepth: 1
     :caption: GoldyDog
@@ -72,13 +62,7 @@ Researchers from Google Brain will give a guest lecture during the quarter on th
     GoldyDog/V4
     GoldyDog/V7
     GoldyDog/V8
-
-.. toctree::
-    :maxdepth: 1
-    :caption: Staff
     
-    staff/Felipe
-
 .. toctree::
     :maxdepth: 2
     :caption: Course material
@@ -91,3 +75,23 @@ Researchers from Google Brain will give a guest lecture during the quarter on th
     course-material/lab-6-spr22
     course-material/lab-7-spr22
     course-material/final-project
+    
+.. toctree::
+    :maxdepth: 1
+    :caption: Stanford Pupper Reference
+    
+    reference/faq
+    reference/rpi-reference
+    reference/design
+    reference/libraries
+    reference/dji_reference
+
+.. toctree::
+    :maxdepth: 1
+    :caption: Staff
+    
+    staff/Felipe
+    staff/HandsOnRobotics
+    staff/StanfordRobotics
+    
+    
